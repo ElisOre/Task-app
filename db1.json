@@ -1,22 +1,28 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar Henry",
-      "day": "15 abril",
-      "reminder": true
+      "text": "End the course",
+      "day": "2023-03-15T18:10",
+      "reminder": true,
+      "id": 4
     },
     {
-      "id": 2,
-      "text": "Estudiar",
-      "day": "mañana a las 12",
-      "reminder": true
+      "text": "Study",
+      "day": "2023-01-24T13:15",
+      "reminder": true,
+      "id": 5
     },
     {
-      "id": 3,
-      "text": "Investigar sobre Java",
-      "day": "el 23 a las 21",
-      "reminder": false
+      "text": "Study about Angular",
+      "day": "2023-01-27T16:15",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Send CV's",
+      "day": "2023-02-06T09:30",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
